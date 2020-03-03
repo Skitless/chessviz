@@ -1,6 +1,1 @@
 # chessviz
-
-
-# chessviz
-# chessviz
-# chessviz
