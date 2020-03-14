@@ -1,4 +1,5 @@
 .gitignore
-Makefile
 .DS_Store
-pusk
+*.o
+*.exe
+*.html
